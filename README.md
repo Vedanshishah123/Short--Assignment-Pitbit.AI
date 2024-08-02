@@ -1,4 +1,4 @@
-# Short--Assignment-Pitbit.AI
+# Short--Assignment-Pibit.AI
 Here is a comprehensive prompt for an LLM to parse the given resume into a structured JSON format:
 
 ---
