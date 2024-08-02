@@ -1,0 +1,78 @@
+json
+{
+  "name": "Vedanshi Shah",
+  "contact_information": {
+    "location": "Pune, Maharashtra-411048",
+    "phone": "8208518248",
+    "email": "vedanshishah123@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/vedanshishahmachinelearningdev/"
+  },
+  "summary": "Passionate and detail-oriented final year student with over 2 years of hands-on experience in data analysis, machine learning and model development. Proficient in Python with a strong foundation in statistical analysis and data visualization. I have also expanded my skillset in Generative AI, aiming to deepen my knowledge in advanced techniques such as Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs).",
+  "technical_skills": [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Computer Science",
+    "Generative AI",
+    "Prompt Engineering",
+    "Python",
+    "Scikit-learn",
+    "Pandas",
+    "Spacy",
+    "Tensorflow",
+    "Hugging-Face Transformers",
+    "Llamaindex"
+],
+  "soft_skills": [
+    "Strategic",
+    "Proactive",
+    "Problem-Solving",
+    "Teamwork",
+    "Leadership"
+  ],
+  "certifications": [
+    "IBM Data science",
+    "Vanderbilt University Prompt Engineering",
+    "LinkedIn Learning Generative AI Skills for Creative Content"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Artificial Intelligence & Data Science",
+    "institution": "Vishwakarma Institute Of Information Technology",
+    "duration": "Jan 2021 - May 2025",
+    "cgpa": "9.24"
+  },
+  "projects": [
+    {
+ "title": "Development of a Medical Chatbot Utilizing Google Gemma 7B LLM",
+      "duration": "April 2024 - May 2024",
+      "description": "Developed a RAG system with Google Gemma 7B LLM to parse and index medical documents, accurately handle queries, and deliver precise information. Enhanced user satisfaction by providing reliable and efficient access to medical information."
+    },
+    {
+      "title": "Zomato Restaurant Clustering and Sentiment Analysis",
+      "duration": "Jan 2024 - Feb 2024",
+      "description":"Conducted in-depth analysis of Zomato restaurant data to extract actionable insights for enhancing customer experience and business growth. Employed NLP techniques to analyze customer reviews, identifying trends and segmenting restaurants based on various factors for targeted marketing. Created compelling visualizations to communicate complex data findings effectively, enabling data-driven decision-making."
+    },
+    {
+      "title": "Predictive Modeling for Employee Hiring",
+      "duration": "Nov2023 - Dec 2023",
+      "description": "Developed a machine learning model to predict optimal staffing levels for service industries, enhancing operational efficiency. Employed advanced forecasting techniques to optimize labor resources and minimize service disruptions."
+    }
+  ],
+  "professional_accomplishments": [
+    {
+      "title": "Copyright Achievement",
+      "description": "Secured a copyright for 'Calculating Carbon-Footprints' at BRACT's VIIT, formulating carbon footprints for a building over a year."
+    },
+{
+      "title": "Vishwacon'23 Presentation",
+      "description": "Presented 'Hierarchical Forecasting for Counter Prediction,' introducing a method to predict counter demands and improve customer satisfaction. Received a grant from the Republic of South Africa."
+    },
+    {
+      "title": "ICAETBM'24 Presentation",
+      "description": "Presented 'Predictive Modeling for Employee Hiring,' developing models to optimize hiring by forecasting counter requirements."
+    },
+    {
+      "title": "Viz-a-than Hackathon",
+      "description": "Secured 4th place in Viz-a-than, a data visualization hackathon, as part of a team."
+    }
+  ]
+}
